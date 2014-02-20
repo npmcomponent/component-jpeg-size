@@ -1,19 +1,13 @@
 {
-  "name": "jpeg-size",
+  "name": "component-jpeg-size",
   "description": "Read JPEG image dimensions from a File or Blob",
   "version": "0.0.1",
-  "keywords": [],
-  "dependencies": {},
-  "development": {},
-  "license": "MIT",
+  "keywords": [
+    "jpeg",
+    "image",
+    "dimensions"
+  ],
   "main": "index.js",
-  "component": {
-    "scripts": {
-      "jpeg-size/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/jpeg-size.git"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
